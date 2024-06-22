@@ -71,6 +71,6 @@ tasks.withType(JavaCompile) {
 }
 
 bootJar {
-	mainClass = 'com.devdoc.backend.DevdocBackendApplication'
+	mainClass = 'com.devdoc.backend.BackendApplication'
 }
 
