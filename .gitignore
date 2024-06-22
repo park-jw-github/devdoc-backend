@@ -1,6 +1,6 @@
 # Gradle build folder
 
-!build/
+
 
 # Other common ignores
 *.class
